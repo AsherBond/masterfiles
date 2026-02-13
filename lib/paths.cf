@@ -193,7 +193,9 @@ bundle common paths
       "path[df]"                string => "/usr/bin/df";
       "path[diff]"              string => "/usr/bin/diff";
       "path[dig]"               string => "/usr/bin/dig";
+      "path[cryptsetup]"        string => "/usr/bin/cryptsetup";
       "path[dmidecode]"         string => "/usr/bin/dmidecode";
+      "path[dmsetup]"           string => "/usr/bin/dmsetup";
       "path[echo]"              string => "/usr/bin/echo";
       "path[egrep]"             string => "/usr/bin/egrep";
       "path[ethtool]"           string => "/usr/bin/ethtool";
@@ -376,6 +378,7 @@ bundle common paths
       "path[diff]"          string => "/usr/bin/diff";
       "path[dig]"           string => "/usr/bin/dig";
       "path[dmidecode]"     string => "/usr/sbin/dmidecode";
+      "path[cryptsetup]"    string => "/usr/sbin/cryptsetup";
       "path[dmsetup]"       string => "/usr/sbin/dmsetup";
       "path[domainname]"    string => "/bin/domainname";
       "path[echo]"          string => "/bin/echo";
@@ -475,6 +478,7 @@ bundle common paths
       "path[df]"            string => "/bin/df";
       "path[diff]"          string => "/usr/bin/diff";
       "path[dig]"           string => "/usr/bin/dig";
+      "path[cryptsetup]"    string => "/usr/sbin/cryptsetup";
       "path[dmidecode]"     string => "/usr/sbin/dmidecode";
       "path[dmsetup]"       string => "/usr/sbin/dmsetup";
       "path[domainname]"    string => "/bin/domainname";
@@ -550,7 +554,9 @@ bundle common paths
       "path[df]"        string => "/usr/bin/df";
       "path[diff]"      string => "/usr/bin/diff";
       "path[dig]"       string => "/usr/bin/dig";
+      "path[cryptsetup]" string => "/usr/sbin/cryptsetup";
       "path[dmidecode]" string => "/usr/sbin/dmidecode";
+      "path[dmsetup]"   string => "/usr/sbin/dmsetup";
       "path[echo]"      string => "/usr/bin/echo";
       "path[egrep]"     string => "/usr/bin/egrep";
       "path[ethtool]"   string => "/usr/sbin/ethtool";
@@ -599,7 +605,9 @@ bundle common paths
       "path[df]"            string => "/bin/df";
       "path[diff]"          string => "/usr/bin/diff";
       "path[dig]"           string => "/usr/bin/dig";
+      "path[cryptsetup]"    string => "/usr/sbin/cryptsetup";
       "path[dmidecode]"     string => "/usr/sbin/dmidecode";
+      "path[dmsetup]"       string => "/usr/sbin/dmsetup";
       "path[domainname]"    string => "/bin/domainname";
       "path[echo]"          string => "/bin/echo";
       "path[egrep]"         string => "/usr/bin/egrep";
